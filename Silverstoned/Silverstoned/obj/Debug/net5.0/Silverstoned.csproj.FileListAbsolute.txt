@@ -1,0 +1,12 @@
+C:\Dev21\blueberry-yogurt\Silverstoned\Silverstoned\bin\Debug\net5.0\Silverstoned.deps.json
+C:\Dev21\blueberry-yogurt\Silverstoned\Silverstoned\bin\Debug\net5.0\Silverstoned.dll
+C:\Dev21\blueberry-yogurt\Silverstoned\Silverstoned\bin\Debug\net5.0\ref\Silverstoned.dll
+C:\Dev21\blueberry-yogurt\Silverstoned\Silverstoned\bin\Debug\net5.0\Silverstoned.pdb
+C:\Dev21\blueberry-yogurt\Silverstoned\Silverstoned\obj\Debug\net5.0\Silverstoned.csproj.AssemblyReference.cache
+C:\Dev21\blueberry-yogurt\Silverstoned\Silverstoned\obj\Debug\net5.0\Silverstoned.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev21\blueberry-yogurt\Silverstoned\Silverstoned\obj\Debug\net5.0\Silverstoned.AssemblyInfoInputs.cache
+C:\Dev21\blueberry-yogurt\Silverstoned\Silverstoned\obj\Debug\net5.0\Silverstoned.AssemblyInfo.cs
+C:\Dev21\blueberry-yogurt\Silverstoned\Silverstoned\obj\Debug\net5.0\Silverstoned.csproj.CoreCompileInputs.cache
+C:\Dev21\blueberry-yogurt\Silverstoned\Silverstoned\obj\Debug\net5.0\Silverstoned.dll
+C:\Dev21\blueberry-yogurt\Silverstoned\Silverstoned\obj\Debug\net5.0\ref\Silverstoned.dll
+C:\Dev21\blueberry-yogurt\Silverstoned\Silverstoned\obj\Debug\net5.0\Silverstoned.pdb
