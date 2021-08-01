@@ -1,0 +1,16 @@
+C:\Dev21\blueberry-yogurt\Brooze\bin\Debug\net5.0\Brooze.exe
+C:\Dev21\blueberry-yogurt\Brooze\bin\Debug\net5.0\Brooze.deps.json
+C:\Dev21\blueberry-yogurt\Brooze\bin\Debug\net5.0\Brooze.runtimeconfig.json
+C:\Dev21\blueberry-yogurt\Brooze\bin\Debug\net5.0\Brooze.runtimeconfig.dev.json
+C:\Dev21\blueberry-yogurt\Brooze\bin\Debug\net5.0\Brooze.dll
+C:\Dev21\blueberry-yogurt\Brooze\bin\Debug\net5.0\ref\Brooze.dll
+C:\Dev21\blueberry-yogurt\Brooze\bin\Debug\net5.0\Brooze.pdb
+C:\Dev21\blueberry-yogurt\Brooze\obj\Debug\net5.0\Brooze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev21\blueberry-yogurt\Brooze\obj\Debug\net5.0\Brooze.AssemblyInfoInputs.cache
+C:\Dev21\blueberry-yogurt\Brooze\obj\Debug\net5.0\Brooze.AssemblyInfo.cs
+C:\Dev21\blueberry-yogurt\Brooze\obj\Debug\net5.0\Brooze.csproj.CoreCompileInputs.cache
+C:\Dev21\blueberry-yogurt\Brooze\obj\Debug\net5.0\Brooze.dll
+C:\Dev21\blueberry-yogurt\Brooze\obj\Debug\net5.0\ref\Brooze.dll
+C:\Dev21\blueberry-yogurt\Brooze\obj\Debug\net5.0\Brooze.pdb
+C:\Dev21\blueberry-yogurt\Brooze\obj\Debug\net5.0\Brooze.genruntimeconfig.cache
+C:\Dev21\blueberry-yogurt\Brooze\obj\Debug\net5.0\Brooze.csproj.AssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brooze", "Brooze\Brooze.csproj", "{6ED8FAB2-73E1-46B7-A6F0-3D4A29932460}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BroozeTest", "BroozeTest\BroozeTest.csproj", "{E9DBB0D4-4CDA-4365-9676-B35F8889EB75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED8FAB2-73E1-46B7-A6F0-3D4A29932460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED8FAB2-73E1-46B7-A6F0-3D4A29932460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED8FAB2-73E1-46B7-A6F0-3D4A29932460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED8FAB2-73E1-46B7-A6F0-3D4A29932460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9DBB0D4-4CDA-4365-9676-B35F8889EB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DBB0D4-4CDA-4365-9676-B35F8889EB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DBB0D4-4CDA-4365-9676-B35F8889EB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DBB0D4-4CDA-4365-9676-B35F8889EB75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDAD4E52-6DE0-4F9B-A6B8-4B053BA7AB29}
+	EndGlobalSection
+EndGlobal
